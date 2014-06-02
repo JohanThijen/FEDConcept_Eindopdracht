@@ -1,15 +1,15 @@
-Als eindopdracht wil ik mijn tentamen van jaar 1(Blackjack) omzetten naar objecten en multiplayer(2 Spelers).
+Als eindopdracht wil ik mijn tentamen van jaar 1(Blackjack) omzetten naar objecten.
 
 
 Objecten: 
 
 - De bank
 - Speler 1
-- Speler 2
+- Kaartenspel
 
 Overervingsrelatie:
 
-- Alle 3 hebben dezelfde functies
+- De objecten kunnen functies overerven( Kaart trekken/Kaarten vergelijken ).
 
 Meerdere events:
 
